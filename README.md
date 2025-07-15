@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Meta Front-End Developer Capstone
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
